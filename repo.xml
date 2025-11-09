@@ -1,0 +1,7 @@
+<Plugins>
+  <Plugin id="YTPlay" version="1.0" minversion="8.5" maxversion="9.0">
+    <Name>YTPlay</Name>
+    <Description>YTPlay plugin for Logitech Media Server</Description>
+    <Download>https://github.com/piotrek2555/YTPlay/raw/refs/heads/main/YTPlay_LMS850.zip</Download>
+  </Plugin>
+</Plugins>
